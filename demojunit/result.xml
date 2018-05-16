@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="PC286526" name="com.junit.Testadd" skipped="0" tests="1" time="0.079" timestamp="2018-05-10T10:46:52">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="coverage.summaryxml.dir" value="reports/cobertura-summary-xml" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/D:/Development_Avecto/eclipse-jee-neon-RC2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/templates/" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Windows 10" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_121\lib\resources.jar;C:\Program Files\Java\jre1.8.0_121\lib\rt.jar;C:\Program Files\Java\jre1.8.0_121\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_121\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_121\lib\jce.jar;C:\Program Files\Java\jre1.8.0_121\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_121\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_121\classes" />
+    <property name="reports.html.dir" value="reports/junit-html" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327" />
+    <property name="java.runtime.version" value="1.8.0_121-b13" />
+    <property name="cobertura.dir" value="D:\corbertura\cobertura-2.1.1" />
+    <property name="user.name" value="670332" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_121\bin" />
+    <property name="reports.dir" value="reports" />
+    <property name="ant.project.default-target" value="coverage" />
+    <property name="ant.project.name" value="cobertura.examples.basic" />
+    <property name="ant.file.cobertura.examples.basic" value="C:\Users\670332\workspace\demojunit\build.xml" />
+    <property name="java.version" value="1.8.0_121" />
+    <property name="coverage.html.dir" value="reports/cobertura-html" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_121\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="classes.dir" value="classes" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_121" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file.type.cobertura.examples.basic" value="file" />
+    <property name="ant.file" value="C:\Users\670332\workspace\demojunit\build.xml" />
+    <property name="os.version" value="10.0" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.121-b13" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="/D:/Development_Avecto/eclipse-jee-neon-RC2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/scripts/" />
+    <property name="reports.xml.dir" value="reports/junit-xml" />
+    <property name="user.home" value="C:\Users\670332" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="coverage.xml.dir" value="reports/cobertura-xml" />
+    <property name="java.library.path" value="D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_172/bin/server;C:/Program Files/Java/jre1.8.0_172/bin;C:/Program Files/Java/jre1.8.0_172/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Python34\;C:\Program Files (x86)\Python34\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\tomcat\apache-tomcat-8.5.24\bin;C:\Program Files\Java\jdk1.8.0_121\bin;D:\apache ant\apache-ant-1.10.1\bin;C:\Program Files (x86)\Puppet Labs\Puppet\bin;C:\apache-maven-3.5.2\bin;D:\SonarScanner\sonar-scanner-3.0.3.778\bin;C:\Program Files\nodejs\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 &amp; MySQL Utilities 1.5.4 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 &amp; MySQL Utilities 1.5.4 1.5\Doctrine extensions for PHP\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Users\670332\AppData\Local\Microsoft\WindowsApps;C:\Users\670332\AppData\Roaming\npm;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse;;.;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\configuration\org.eclipse.osgi\762\0\.cp" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1525949211064 -Declipse.connect.port=53705 -Declipse.pdebuild.home=/D:/Development_Avecto/eclipse-jee-neon-RC2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/./ -Declipse.pdebuild.scripts=/D:/Development_Avecto/eclipse-jee-neon-RC2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/scripts/ -Declipse.pdebuild.templates=/D:/Development_Avecto/eclipse-jee-neon-RC2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/templates/ -Dant.home=D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile C:\Users\670332\workspace\demojunit\build.xml unit-test-1" />
+    <property name="java.class.path" value="D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-antlr.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-bcel.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-bsf.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-log4j.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-oro.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-regexp.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-resolver.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-xalan2.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-commons-logging.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-commons-net.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jai.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-javamail.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jdepend.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jmf.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jsch.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit4.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-launcher.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-netrexx.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-swing.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-testutil.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\configuration\org.eclipse.osgi\81\0\.cp\lib\antdebug.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\configuration\org.eclipse.osgi\81\0\.cp\lib\remote.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\configuration\org.eclipse.osgi\82\0\.cp\lib\remoteAnt.jar;C:\Program Files\Java\jdk1.8.0_121\lib\tools.jar;D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64_3.105.0.v20160519-0649.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="eclipse.pdebuild.home" value="/D:/Development_Avecto/eclipse-jee-neon-RC2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/./" />
+    <property name="java.io.tmpdir" value="C:\Users\670332\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="instrumented.dir" value="instrumented" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_121\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\670332\workspace\demojunit" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="C:\Users\670332\workspace\demojunit" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="D:\Development_Avecto\eclipse-jee-neon-RC2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="src.dir" value="src" />
+    <property name="ant.project.invoked-targets" value="unit-test-1" />
+  </properties>
+  <testcase classname="com.junit.Testadd" name="initializationError" time="0.012">
+    <error message="org/hamcrest/SelfDescribing" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: org/hamcrest/SelfDescribing
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:36)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:453)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:140)
+Caused by: java.lang.ClassNotFoundException: org.hamcrest.SelfDescribing
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+</error>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[CLASSPATH element C:\Users\670332\workspace\demojunit\bin\com\junit\Add.class is not a JAR.
+]]></system-err>
+</testsuite>
