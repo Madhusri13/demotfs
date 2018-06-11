@@ -1,6 +1,6 @@
 package com.junit;
 public class Add {
-    
+    //hyy
 	int a,b,c;
 	//hello
 	public Add(int a,int b,int c)
